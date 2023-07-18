@@ -1,3 +1,3 @@
 # Kyukokumei
-The Kyukokumei Discord Bot
+The Kyukokumei Programming Langue
 
